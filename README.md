@@ -1,4 +1,3 @@
-## OI,sou o Matheus
 # 👨🏻‍💻 Matheus Durães
 
 **`Programador e Desenvolvedor Web | Graduando em Ciência da Computação`**
@@ -13,7 +12,7 @@ Me chamo **Matheus Durães**, tenho **22 anos** e sou de **Belo Horizonte – MG
             src="https://custom-icon-badges.demolab.com/github/followers/matheusmfd7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/notifications/?filter=all">
+    <a href="www.linkedin.com/in/matheus-ferreira-durães-975b46314">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
@@ -57,5 +56,4 @@ Me chamo **Matheus Durães**, tenho **22 anos** e sou de **Belo Horizonte – MG
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmfd7&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </p>
-
 
