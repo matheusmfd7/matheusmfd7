@@ -1,8 +1,15 @@
-# 👋 Oi,sou o Matheus
+# 👋 Oi, sou o Matheus
 
 **`Programador e Desenvolvedor Web | Graduando em Ciência da Computação`**
 
 Me chamo **Matheus Durães**, tenho **22 anos** e sou de **Belo Horizonte – MG**. Sou **formado em Assistente de Programação e Desenvolvimento Web** pelo **SENAI CTTI** e atualmente sou **graduando em Ciência da Computação** pela **Newton Paiva | Wyden**. Tenho interesse constante em tecnologia, desenvolvimento de sistemas e aprimoramento contínuo, buscando evoluir profissionalmente e aplicar meus conhecimentos de forma prática no mercado.
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="left">
   <a href="https://github.com/matheusmfd7" target="_blank">
