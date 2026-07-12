@@ -62,33 +62,11 @@ Tenho paixão por tecnologia e desenvolvimento de software, com foco em **Front-
 # 📚 Atualmente estudando
 
 - ⚛️ React
-- 🟦 JavaScript ES6+
+- 🟨 JavaScript ES6+
 - 🔗 Consumo de APIs REST
 - 📄 JSON
 - 🌐 Desenvolvimento Front-End
 - 📦 Git e GitHub
-
----
-
-# 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmfd7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmfd7&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=matheusmfd7&theme=tokyonight&hide_border=false"/>
-
-</div>
 
 ---
 
@@ -106,5 +84,4 @@ Tenho paixão por tecnologia e desenvolvimento de software, com foco em **Front-
 <a href="matheusferreiraduraes@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
