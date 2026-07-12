@@ -2,7 +2,7 @@
 
 **`Programador e Desenvolvedor Web | Graduando em Ciência da Computação`**
 
-Me chamo **Matheus Durães**, tenho **22 anos** e sou de **Belo Horizonte – MG**. Sou **formado em Assistente de Programação e Desenvolvimento Web** pelo **SENAI CTTI** e atualmente sou **graduando em Ciência da Computação** pela **Newton Paiva | Wyden**. Tenho interesse constante em tecnologia, desenvolvimento de sistemas e aprimoramento contínuo, buscando evoluir profissionalmente e aplicar meus conhecimentos de forma prática no mercado.
+Me chamo **Matheus Durães**, tenho **22 anos** e sou de **Belo Horizonte – MG**. Sou **formado em Assistente de Programação e Desenvolvimento Web** pelo **SENAI CTTI** e atualmente sou **graduando em Analise e Desenvolvimento de Sistemas** pela **Newton Paiva | Wyden**. Tenho interesse constante em tecnologia, desenvolvimento de sistemas e aprimoramento contínuo, buscando evoluir profissionalmente e aplicar meus conhecimentos de forma prática no mercado.
 
 <!-- Pacman -->
 <picture>
@@ -39,12 +39,11 @@ Me chamo **Matheus Durães**, tenho **22 anos** e sou de **Belo Horizonte – MG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
-  
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
 </p>
 
 ---
